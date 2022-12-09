@@ -22,4 +22,3 @@
 
 - 🔭 Hoje eu estou aprendendo sobre front-end
 - 🌱 Estudando HTML - CSS - JAVASCRIPT
-- 😄 Pronouns: ele/dele
